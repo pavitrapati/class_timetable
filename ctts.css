@@ -1,0 +1,18 @@
+body{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+
+}
+#tab{
+    padding-top: 5px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+th,td{
+    padding: 5px;
+}
